@@ -1146,8 +1146,8 @@ motorik.io, 100463, RESELLER
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 
-#taboola - 02.17.25
-taboola.com,1746963,DIRECT,c228e6794e811952
+#taboola - 07.25.25
+taboola.com,1779975,DIRECT,c228e6794e811952
 pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
 appnexus.com, 3364, RESELLER
 indexexchange.com, 183756, RESELLER
@@ -1169,6 +1169,7 @@ yieldmo.com, 3357506016601120771, RESELLER
 triplelift.com, 14073, RESELLER, 6c33edb13117fd86
 inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
 google.com, pub-3677668629134422, RESELLER, f08c47fec0942fa0
+themediagrid.com, I2G5ZV, RESELLER, 35d5010d7789b49d
 
 #vidazoo  - 02.17.25
 vidazoo.com, 67572da9538eb53cc99a31a6, DIRECT, b6ada874b4d7d0b2
