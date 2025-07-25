@@ -1096,6 +1096,9 @@ Xapads.com, 204666, RESELLER
 adwmg.com, 100984, RESELLER, c9688a22012618e7
 google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
 33across.com, 0014000001a0hIqAAI, RESELLER, bbea06d9c4d2853c
+emxdgt.com, 1799, RESELLER, 1e1d41537f7cad7f
+loopme.com, 11624, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
 
 
 
