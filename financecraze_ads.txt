@@ -1060,22 +1060,73 @@ smartadserver.com, 4342, RESELLER
 smartadserver.com, 4012, RESELLER
 video.unrulymedia.com, 266978658, RESELLER
 
-#smilewanted- 02.17.25
-smilewanted.com, 4673, DIRECT
-pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
-appnexus.com, 10040, RESELLER
-smartadserver.com, 2491, RESELLER
-rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
-video.unrulymedia.com, 1767448067723954599, RESELLER
-openx.com, 557083110, RESELLER, 6a698e2ec38604c6
-indexexchange.com, 193216, RESELLER
-sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
-themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+#smilewanted- 07.25.25
 152media.info, 152M728, RESELLER
-33across.com, 001Pg000009Gtq2IAC, DIRECT, bbea06d9c4d2853c
+admanmedia.com, 2281, RESELLER
+admatic.de, ade-pub-3134810934, RESELLER, uufps1dh5stc6euk
+admatic.de, ade-pub-4633194374, RESELLER, uufps1dh5stc6euk
+amxrtb.com, 105199841, RESELLER
+betweendigital.com, 45128, DIRECT
+chocolateplatform.com, 21516, RESELLER
+escalax.io, 78, RESELLER
 eskimi.com, 2020000768, RESELLER
+inmobi.com, 1f5cd0132f7548e49535d561e1d4c9ac, RESELLER, 83e75a7ae333ca9d
+lijit.com, 346012, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11468, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 7f5d22b0006ab5a, RESELLER
 smaato.com, 1100055901, RESELLER, 07bcf65f187117b4
+themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 1767448067723954599, RESELLER
 videoheroes.tv, 212648, RESELLER, 064bc410192443d8
+vistarsagency.com, d2055uouq3nc738pv7j0, RESELLER, 8db795910158017c
+33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
+adform.com, 3016, RESELLER
+advertising.com, 23089, RESELLER
+advertising.com, 28605, RESELLER
+adyoulike.com, 1f301d3bcd723f5c372070bdfd142940, RESELLER
+aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15670, RESELLER
+appnexus.com, 6849, RESELLER
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+indexexchange.com, 182257, RESELLER
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+lijit.com, 346012-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 502284, RESELLER
+loopme.com, 11575, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 8c90176af2e65c8, RESELLER
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159277, RESELLER
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4467, RESELLER
+smilewanted.com, 4673, RESELLER
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+triplelift.com, 12210-EB, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 266978658, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+xandr.com, 13799, RESELLER
+yahoo.com, 59244, RESELLER
 
 
 #sonobi - 02.17.25
@@ -1118,8 +1169,8 @@ yieldmo.com, 3357506016601120771, RESELLER
 triplelift.com, 14073, RESELLER, 6c33edb13117fd86
 inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
 google.com, pub-3677668629134422, RESELLER, f08c47fec0942fa0
-#vidazoo  - 02.17.25
 
+#vidazoo  - 02.17.25
 vidazoo.com, 67572da9538eb53cc99a31a6, DIRECT, b6ada874b4d7d0b2
 didna.io, 67572da9538eb53cc99a31a6, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
@@ -1144,7 +1195,9 @@ Xapads.com, 204666, RESELLER
 adwmg.com, 100984, RESELLER, c9688a22012618e7
 google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
 33across.com, 0014000001a0hIqAAI, RESELLER, bbea06d9c4d2853c
-
+emxdgt.com, 1799, RESELLER, 1e1d41537f7cad7f
+loopme.com, 11624, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
 
 
 
