@@ -98,8 +98,6 @@ triplelift.com, 12503, RESELLER, 6c33edb13117fd86
 loopme.com, 11575, RESELLER, 6c8d5f95897a5a3b
 
 #AdExchange - 02.17.25
-google.com, pub-8109500119379236, DIRECT, f08c47fec0942fa0
-#adspire
 google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
 
 #AMX  02.17.25
