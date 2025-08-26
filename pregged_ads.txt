@@ -1022,7 +1022,7 @@ adform.com, 3119, RESELLER, 9f5210a2f0999e32
 
 #magnite rubicon - 08.21.25
 rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 18624, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
 #sharethrough - 02.17.25
 sharethrough.com, oNyV68RD, DIRECT, d53b998a7bd4ecd2
