@@ -102,6 +102,13 @@ google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
 #adsense 09.05.25
 google.com, pub-2392892014176113, DIRECT, f08c47fec0942fa0
 
+#AdYouLike - 09.22.2025
+adyoulike.com, 61dbf888ec5b6af7df75930ad281dbac, DIRECT
+appnexus.com, 7664, RESELLER
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
+adform.com, 3296, RESELLER, 9f5210a2f0999e32
+
 #AMX  07.26.25
 appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
