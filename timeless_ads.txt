@@ -1,0 +1,4 @@
+#adx
+google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
+#adsense
+google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
