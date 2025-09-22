@@ -703,6 +703,55 @@ freewheel.tv, 1137745, RESELLER
 
 ##### CPMSTAR_END #####
 
+#e-planning 09.22.2025
+e-planning.net,db75af873782603a,DIRECT,c1ba615865ed87b2
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
+pubmatic.com,156631,DIRECT,5d62403b186f2ace
+disqus.com,891,DIRECT
+zeta.com,891,DIRECT
+zetaglobal.net,891,DIRECT
+sharethrough.com,23830661,DIRECT,d53b998a7bd4ecd2
+openx.com,541031350,DIRECT,6a698e2ec38604c6
+onetag.com,5927d926323dc2c,DIRECT
+mgid.com,833178,DIRECT,d4c29acad76ce94f
+nextmillennium.io,16425,DIRECT,65bd090fa4a1e3d6
+video.unrulymedia.com,2736329702851200000,RESELLER
+eskimi.com,2020000186,RESELLER
+trustedstack.com,TSL72ADG4,DIRECT
+Media.net,8CUT87EOU,DIRECT
+conversantmedia.com,41784,RESELLER,03113cd04947736d
+google.com,pub-7734005103835923,RESELLER,f08c47fec0942fa0
+video.unrulymedia.com,2736329702851206590,RESELLER
+aceex.io,2108,DIRECT,b1cf3c874d5c6682
+inmobi.com,9b300ff061ff4501abcdd864e6c1cceb,RESELLER,83e75a7ae333ca9d
+33across.com,0010b00002ZoRYhAAN,RESELLER,bbea06d9c4d2853c
+conversantmedia.com,41784,DIRECT,03113cd04947736d
+freewheel.tv,sg1256491,RESELLER
+sharethrough.com,j0nru1gr,RESELLER,d53b998a7bd4ecd2
+video.unrulymedia.com,9085206363819624071,RESELLER
+lijit.com,245697,RESELLER,fafdf38b16bf6b2b
+onetag.com,848879e82ca5940,RESELLER
+improvedigital.com,1556,RESELLER
+Epom,c012536d-8aaf-4072-be41-7c5c6f51512b,DIRECT
+smartadserver.com,5437,RESELLER,060d053dcf45cbf3
+supply.colossusssp.com,610,RESELLER,6c5b49d96ec1b458
+smartadserver.com,4478,RESELLER
+pmc.com,1243000,RESELLER,8dd52f825890bb44
+admile.com,61880005,DIRECT
+video.unrulymedia.com,703273072,RESELLER
+google.com,pub-4947366591227756,RESELLER,f08c47fec0942fa0
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+amxrtb.com,105199731,DIRECT
+freewheel.tv,534465-r-523319,RESELLER
+loopme.com,12858,RESELLER,6c8d5f95897a5a3b
+conversantmedia.com,100066,DIRECT,03113cd04947736d
+appnexus.com,15941,DIRECT
+richaudience.com,25BiP9IMgN,DIRECT
+pubmatic.com,163389,DIRECT,5d62403b186f2ace
+admixer.net,0cc7386a-d5a3-4b90-aeeb-3e67f8fe,DIRECT
+krushmedia.com,AJxF6R489a9M6CaTvK,DIRECT
+adagio.io,1417,DIRECT
+
 
 #kueez 04.29.25
 kueez.com,ce13f5da7fe6161a15299648d1e24317, DIRECT
