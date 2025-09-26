@@ -1,5 +1,5 @@
 #v.09.25.25
-ownerdomain=adspireinc.net
+#ownerdomain=adspireinc.net
 
 #Aditude - 05.23.25
 aditude.io, 232, DIRECT
