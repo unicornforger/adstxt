@@ -719,6 +719,9 @@ start.io, 185522363, reseller
 loopme.com,11576,reseller
 themediagrid.com,uot45z,reseller
 
+#magnite rubicon - 08.21.25
+rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
 #media.net  - 02.17.25 REMOVED 07.02.2025
 Media.net, 8CUY06FI7, DIRECT
@@ -1100,10 +1103,6 @@ freewheel.tv, 1590601, RESELLER
 freewheel.tv, 1590606, RESELLER
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
 adform.com, 3119, RESELLER, 9f5210a2f0999e32
-
-#magnite rubicon - 08.21.25
-rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
 #sharethrough - 02.17.25
 sharethrough.com, oNyV68RD, DIRECT, d53b998a7bd4ecd2
