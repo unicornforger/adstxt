@@ -608,6 +608,39 @@ themediagrid.com,uot45z,reseller
 rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
+# MEMBRANA MEDIA 09.30.25
+membrana-media.com, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
+Notsy.io, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
+adform.com, 2218, DIRECT, 9f5210a2f0999e32
+admixer.net, d23623c9-fb6d-45a2-9377-90f490525317, DIRECT
+aps.amazon.com,71d4b8ca-53d1-4309-a952-3306259fb046,DIRECT
+appnexus.com, 9818, DIRECT, f5ab79cb980f11d1
+criteo.com, B-061291, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, 8RYHC4, DIRECT, 35d5010d7789b49d
+google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
+google.com, pub-8417126197537762, DIRECT, f08c47fec0942fa0
+google.com, pub-5767825948286332, DIRECT, f08c47fec0942fa0
+google.com, pub-3166299510873585, DIRECT, f08c47fec0942fa0
+smartadserver.com, 5052, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5052-OB, RESELLER, 060d053dcf45cbf3
+inmobi.com, 9db26b74b0cb43de95dcfcf712e9a587, DIRECT, 83e75a7ae333ca9d
+inmobi.com, 0acec8aa03004cdc956a64618daa8633, DIRECT, 83e75a7ae333ca9d
+media.net, 8CUHCR0TP, DIRECT
+media.net, 8CUV1R5H1, DIRECT
+media.net, 8CUTP57S4, DIRECT
+onetag.com, 76d22ee48dade98, RESELLER
+onetag.com, 76d22ee48dade98-OB, RESELLER
+video.unrulymedia.com, 586616193, RESELLER
+pubmatic.com, 162099, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162179, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17352, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+sonobi.com, f8813fc801, RESELLER, d1a215d9eb5aee9e
+lijit.com, 258942, DIRECT, fafdf38b16bf6b2b
+lijit.com, 258942-eb, DIRECT, fafdf38b16bf6b2b
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+
 #OMS - 09.26.25
 onlinemediasolutions.com, 21249, DIRECT, b3868b187e4b6402
 rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
