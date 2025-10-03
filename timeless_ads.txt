@@ -12,6 +12,57 @@ rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
 adform.com, 3296, RESELLER, 9f5210a2f0999e32
 
+#aniview 10.03.2025
+
+aniview.com, 67d74d21932e3fd732091129, DIRECT, 78b21b97965ec3f8
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+aps.amazon.com, 1ad7261b-91ea-4b6f-b9e9-b83522205b75, RESELLER
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+gannett.com, 22652678936, RESELLER
+richaudience.com, 1ru8dKmJJV, RESELLER
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1
+openx.com, 539625136, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2640, RESELLER
+adform.com, 1942, RESELLER, 9f5210a2f0999e32
+smartadserver.com, 2441, RESELLER
+sovrn.com, 249425, RESELLER, fafdf38b16bf6b2b
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+didna.io, 22652678936, RESELLER
+adipolosolutions.com, 22652678936, RESELLER
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+aps.amazon.com, f3e7ba0e-0a47-4c65-bede-04deda118e32, RESELLER
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+onetag.com, 57e618150c70d90, RESELLER
+google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
+hindsightsolutions.net, 22652678936, RESELLER
+yieldmo.com, 3482868977292485608, RESELLER, 6a92c77cfc3d2258
+playstream.media, 911, RESELLER
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+yieldmonk.com, 22637491760, DIRECT
+google.com, pub-9422585382673566, DIRECT, f08c47fec0942fa0
+supply.colossusssp.com, 856, RESELLER, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+yieldmo.com, 3078438591206989879, RESELLER, #ortb
+freewheel.tv, 1608979, RESELLER
+freewheel.tv, 1608997, RESELLER
+freewheel.tv, 1609023, RESELLER
+freewheel.tv, 1609024, RESELLER
+smartadserver.com, 4255, RESELLER, 060d053dcf45cbf3
+trustedstack.com, TS24FF16G, DIRECT
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+sharethrough.com, zLsEa05k, RESELLER, d53b998a7bd4ecd2
+connectad.io, 505, RESELLER, 85ac85a30c93b3e5	
+adform.com, 768, RESELLER, 9f5210a2f0999e32	
+rubiconproject.com, 26800, RESELLER, 0bfd66d529a55807
+
+
 ##### CPMSTAR_START  - 09.24.25 #####
 cpmstar.com, 53990, DIRECT, 1b929e6459dfc260
 
