@@ -1,5 +1,4 @@
 ownerdomain=adspireinc.net
-managerdomain=adspireinc.net
 
 #google adx
 google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
