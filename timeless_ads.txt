@@ -31,6 +31,9 @@ media.net, 8CU322PTV, RESELLER, 818f58666cabc936
 smartadserver.com, 4255, RESELLER, 060d053dcf45cbf3
 smaato.com, 1100058229, RESELLER, 07bcf65f187117b4
 
+#appnexus Xandr - 10.04.2025
+Xandr.com, 16957, DIRECT 
+
 ##### CPMSTAR_START  - 09.24.25 #####
 cpmstar.com, 53990, DIRECT, 1b929e6459dfc260
 
