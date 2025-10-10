@@ -757,8 +757,10 @@ lijit.com, 258942-eb, DIRECT, fafdf38b16bf6b2b
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 
 # monetixads.com 10-10-2025
-monetixads.com, mix-pub-7107608954, RESELLER, uufps1dh5stc6euk
-admatic.com.tr, mix-pub-7107608954, RESELLER, uufps1dh5stc6euk
+monetixads.com, mix-pub-68e3c6d3edbfcd1cc11760f6, DIRECT, uufps1dh5stc6euk
+monetixads.com, mix-pub-7107608954, DIRECT, uufps1dh5stc6euk
+admatic.com.tr, mix-pub-68e3c6d3edbfcd1cc11760f6, DIRECT, uufps1dh5stc6euk
+admatic.com.tr, mix-pub-7107608954, DIRECT, uufps1dh5stc6euk
 lijit.com, 580331, RESELLER, fafdf38b16bf6b2b
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
