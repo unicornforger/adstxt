@@ -198,6 +198,15 @@ rubiconproject.com, 26800, RESELLER, 0bfd66d529a55807
 #appnexus Xandr - 02.17.25
 Xandr.com, 16957, DIRECT
 
+#bidscube 10.13.2025 
+bidscube.com, 5000700, DIRECT, 6ecc87a1e0269724
+decenterads.com, 302184, DIRECT
+bidinfluence.com, 502395, DIRECT
+improvedigital.com, 2418, RESELLER
+smaato.com, 1100058165, DIRECT, 07bcf65f187117b4
+inmobi.com, ccbbac8e47044746baa5d273e6bd2a03, RESELLER, 83e75a7ae333ca9d
+ogury.com, 94097320-ac25-4bfb-9082-c6784e3932fd, RESELLER
+
 ##### CPMSTAR_START  - 02.17.25 #####
 cpmstar.com, 53990, DIRECT, 1b929e6459dfc260
 
