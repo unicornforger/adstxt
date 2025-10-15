@@ -798,7 +798,9 @@ improvedigital.com,2106,reseller
 adform.com,2926,reseller
 start.io, 185522363, reseller
 loopme.com,11576,reseller
-themediagrid.com,uot45z,reseller
+themediagrid.com,uot45z,reseller 
+tagoras.io,ce13f5da7fe6161a15299648d1e24317, DIRECT
+appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
 
 #Lunamedia 10.01.25
 lunamedia.io, 77505708-2caa-401f-88b3-a34c39eb92a7, DIRECT, 524ecb396915caaf
