@@ -797,6 +797,8 @@ adform.com,2926,reseller
 start.io, 185522363, reseller
 loopme.com,11576,reseller
 themediagrid.com,uot45z,reseller
+tagoras.io,ce13f5da7fe6161a15299648d1e24317, DIRECT
+appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
 
 #magnite rubicon - 08.21.25
 rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
