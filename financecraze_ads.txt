@@ -807,6 +807,11 @@ appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
+#mgid 10.16.25
+mgid.com, 940258, DIRECT, d4c29acad76ce94f
+google.com, pub-2441454515104767, RESELLER, f08c47fec0942fa0
+google.com, pub-2441454515104767, DIRECT, f08c47fec0942fa0
+
 # MEMBRANA MEDIA 09.30.25
 membrana-media.com, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
 Notsy.io, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
