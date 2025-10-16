@@ -787,6 +787,11 @@ lijit.com, 258942, DIRECT, fafdf38b16bf6b2b
 lijit.com, 258942-eb, DIRECT, fafdf38b16bf6b2b
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 
+#mgid 10.16.25
+mgid.com, 940258, DIRECT, d4c29acad76ce94f
+google.com, pub-2441454515104767, RESELLER, f08c47fec0942fa0
+google.com, pub-2441454515104767, DIRECT, f08c47fec0942fa0
+
 #Minutemedia 10.10.25
 minutemedia.com,01jcdqcmy6mw, DIRECT
 pubmatic.com,161683,RESELLER,5d62403b186f2ace
