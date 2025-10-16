@@ -819,6 +819,11 @@ lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
 contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
 zetaglobal.net, 681, RESELLER
 
+#mgid 10.16.25
+mgid.com, 940258, DIRECT, d4c29acad76ce94f
+google.com, pub-2441454515104767, RESELLER, f08c47fec0942fa0
+google.com, pub-2441454515104767, DIRECT, f08c47fec0942fa0
+
 # MEMBRANA MEDIA 09.30.25
 membrana-media.com, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
 Notsy.io, a5f64998-8125-3549-0c95-bc0c4cd980bd, DIRECT
