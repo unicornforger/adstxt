@@ -978,6 +978,13 @@ smartadserver.com, 4253, RESELLER
 adform.com, 3251, RESELLER, 9f5210a2f0999e32
 sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 
+#onetag - 10.17.25
+onetag.com, 94d66552844dade, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
+
 #richaudience - 10.03.25
 richaudience.com, 04nN25DxWV, DIRECT
 appnexus.com, 8233, RESELLER
