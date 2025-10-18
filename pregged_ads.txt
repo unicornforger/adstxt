@@ -98,8 +98,8 @@ loopme.com, 11575, RESELLER, 6c8d5f95897a5a3b
 
 #AdExchange - 02.17.25
 google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
-#adsense 09.05.25
-google.com, pub-2392892014176113, DIRECT, f08c47fec0942fa0
+#adsense 10.18.25
+google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
 
 #Admatic - 10.13.2025
 admatic.de, ade-pub-8727342194, DIRECT, uufps1dh5stc6euk
