@@ -1,8 +1,8 @@
 Revaza settings
 
-Code in the top of the header
+Code to be placede before the <head> tag
 <script>
- var revaza = revaza  []; var revazaConfig = window.revazaConfig  {}; revazaConfig.init = true;
+ var revaza = revaza || []; var revazaConfig = window.revazaConfig || {}; revazaConfig.init = true;
 </script>
 <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 # pregged
