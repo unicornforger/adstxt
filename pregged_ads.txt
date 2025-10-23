@@ -1,26 +1,6 @@
 #v.09.25.25
 ownerdomain=adspireinc.net
 
-#Aditude - 05.23.25
-aditude.io, 232, DIRECT
-emxdgt.com, 2651, DIRECT, 1e1d41537f7cad7f
-loopme.com, 15268, RESELLER, 6c8d5f95897a5a3b
-loopme.com, 15270, RESELLER, 6c8d5f95897a5a3b
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-xandr.com, 13799, RESELLER
-improvedigital.com, 1532, RESELLER
-lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
-sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
-ushareit.com, LC98ffe3f38a46423e, RESELLER
-freewheel.tv, 1137745, RESELLER
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-xandr.com, 13799, RESELLER
-improvedigital.com, 1532, RESELLER
-lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
-sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
-ushareit.com, LC98ffe3f38a46423e, RESELLER
-freewheel.tv, 1137745, RESELLER
-
 #aditude 10.23.25
 
 #33Across
