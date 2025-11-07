@@ -1,3 +1,34 @@
 google.com, pub-7367287795119005, DIRECT, f08c47fec0942fa0
 google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
 google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
+
+#aniview 07.11.2025
+aniview.com, 67d74d21932e3fd732091129, DIRECT, 78b21b97965ec3f8
+
+#appnexus Xandr - 07.11.2025
+Xandr.com, 16957, DIRECT 
+
+#CPMSTAR_STAR  - 07.11.2025
+cpmstar.com, 53990, DIRECT, 1b929e6459dfc260
+
+#kueez 07.11.2025
+kueez.com,ce13f5da7fe6161a15299648d1e24317, DIRECT
+
+#magnite rubicon - 07.11.2025
+rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
+
+#OMS - 07.11.2025
+onlinemediasolutions.com, 21249, DIRECT, b3868b187e4b6402
+
+#onetag - 07.11.2025
+onetag.com, 94d66552844dade, DIRECT
+
+#richaudience - 07.11.2025
+richaudience.com, 04nN25DxWV, DIRECT
+
+#sonobi - 07.11.2025
+sonobi.com, e00f0384ef, DIRECT, d1a215d9eb5aee9e
+
+#vidazoo  - 07.11.2025
+vidazoo.com, 67572da9538eb53cc99a31a6, DIRECT, b6ada874b4d7d0b2
+didna.io, 67572da9538eb53cc99a31a6, DIRECT
