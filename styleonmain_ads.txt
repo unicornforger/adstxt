@@ -59,6 +59,10 @@ video.unrulymedia.com, 592728597, RESELLER
 smartadserver.com, 2640, RESELLER
 inmobi.com, e98f0d119adf44788d60132b6e20fc5d, RESELLER, 83e75a7ae333ca9d
 
+#smaato - 11.11.25
+smaato.com, 1100059674, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+
 #sonobi - 07.11.2025
 sonobi.com, e00f0384ef, DIRECT, d1a215d9eb5aee9e
 
