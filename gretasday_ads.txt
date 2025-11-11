@@ -1,6 +1,11 @@
 google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
 google.com, pub-7367287795119005, DIRECT, f08c47fec0942fa0
 google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
+#GOOGLE adx
+google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
+#adsense
+google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
+
 
 #aniview 07.11.2025
 aniview.com, 67d74d21932e3fd732091129, DIRECT, 78b21b97965ec3f8
@@ -19,12 +24,45 @@ rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
 
 #OMS - 07.11.2025
 onlinemediasolutions.com, 21249, DIRECT, b3868b187e4b6402
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
+onomagic.com, 212491, DIRECT
+rubiconproject.com, 24364, RESELLER, 0bfd66d529a55807
+getmediamx.com, 1221249, DIRECT
+lijit.com, 374814, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 6694405583287859332, RESELLER
+themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
+appnexus.com, 11801, RESELLER
+appnexus.com, 15629, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15127, RESELLER
+onetag.com, 7b561459c997848, RESELLER
+audienciad.com, 212492, DIRECT
+loopme.com, 12733, RESELLER, 6c8d5f95897a5a3b
+Media.net, 8CUB46Z7R, RESELLER
+onetag.com, 75753f1ebcc343c, RESELLER
+yieldmo.com, 2757543169808605705, RESELLER
+adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER
+amxrtb.com, 105199514, RESELLER
+aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, DIRECT
+smartadserver.com, 4253, RESELLER
+adform.com, 3251, RESELLER, 9f5210a2f0999e32
+sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 
 #onetag - 07.11.2025
 onetag.com, 94d66552844dade, DIRECT
 
 #richaudience - 07.11.2025
 richaudience.com, 04nN25DxWV, DIRECT
+appnexus.com, 8233, RESELLER
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13510, RESELLER
+adform.com, 1942, RESELLER
+lijit.com, 249425, RESELLER
+video.unrulymedia.com, 592728597, RESELLER
+smartadserver.com, 2640, RESELLER
+inmobi.com, e98f0d119adf44788d60132b6e20fc5d, RESELLER, 83e75a7ae333ca9d
 
 #sonobi - 07.11.2025
 sonobi.com, e00f0384ef, DIRECT, d1a215d9eb5aee9e
@@ -32,3 +70,28 @@ sonobi.com, e00f0384ef, DIRECT, d1a215d9eb5aee9e
 #vidazoo  - 07.11.2025
 vidazoo.com, 67572da9538eb53cc99a31a6, DIRECT, b6ada874b4d7d0b2
 didna.io, 67572da9538eb53cc99a31a6, DIRECT
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-4282252113865235, RESELLER, f08c47fec0942fa0
+appnexus.com, 2794, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159988, RESELLER, 5d62403b186f2ace
+lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
+triplelift.com, 11883, RESELLER, 6c33edb13117fd86
+themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 2743945877, RESELLER
+sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2
+media.net, 8CUN4Y5Y3, RESELLER
+pubmatic.com, 159470, RESELLER, 5d62403b186f2ace
+aps.amazon.com, cfee765f-a9ba-4867-af16-2ff8d62ed9ba, RESELLER
+richaudience.com, 3MkIAgQBPw, RESELLER
+freewheel.tv, 625393, RESELLER
+sharethrough.com, 0c3ba0a3, RESELLER, d53b998a7bd4ecd2
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+Xapads.com, 204666, RESELLER
+adwmg.com, 100984, RESELLER, c9688a22012618e7
+google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
+33across.com, 0014000001a0hIqAAI, RESELLER, bbea06d9c4d2853c
+emxdgt.com, 1799, RESELLER, 1e1d41537f7cad7f
+loopme.com, 11624, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
