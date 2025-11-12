@@ -47,6 +47,7 @@ kueez.com,ce13f5da7fe6161a15299648d1e24317, DIRECT
 
 #magnite rubicon - 07.11.2025
 rubiconproject.com, 18622, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18624, RESELLER, 0bfd66d529a55807
 
 #OMS - 07.11.2025
 onlinemediasolutions.com, 21249, DIRECT, b3868b187e4b6402
