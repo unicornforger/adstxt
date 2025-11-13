@@ -1,6 +1,9 @@
+#google adx
 google.com, pub-7367287795119005, DIRECT, f08c47fec0942fa0
-google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
+#google adsense
 google.com, pub-2816625341391939, DIRECT, f08c47fec0942fa0
+#
+google.com, pub-5942646757363012, DIRECT, f08c47fec0942fa0
 
 #aniview 07.11.2025
 aniview.com, 67d74d21932e3fd732091129, DIRECT, 78b21b97965ec3f8
@@ -95,6 +98,7 @@ sharethrough.com, LxFeZvU4, RESELLER, d53b998a7bd4ecd2
 
 #onetag - 07.11.2025
 onetag.com, 94d66552844dade, DIRECT
+appnexus.com, 13099, RESELLER
 
 #richaudience - 07.11.2025
 richaudience.com, 04nN25DxWV, DIRECT
