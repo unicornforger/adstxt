@@ -8,6 +8,25 @@ google.com, pub-7367287795119005, DIRECT, f08c47fec0942fa0
 
 #aniview 07.11.2025
 aniview.com, 67d74d21932e3fd732091129, DIRECT, 78b21b97965ec3f8
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+onetag.com, 57e618150c70d90, RESELLER
+richaudience.com, 1ru8dKmJJV, RESELLER
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
+connectad.io, 505, RESELLER, 85ac85a30c93b3e5
+adform.com, 768, RESELLER, 9f5210a2f0999e32
+152media.info,152M1098,RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6
+media.net, 8CU322PTV, RESELLER, 818f58666cabc936
+flashb.id, c295d1a2-ea6d-54bb-b1b4-dd4b46eb1ed9, DIRECT
+rubiconproject.com, 20922, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3389, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
+adform.com, 3125, RESELLER
 
 #appnexus Xandr - 07.11.2025
 Xandr.com, 16957, DIRECT 
